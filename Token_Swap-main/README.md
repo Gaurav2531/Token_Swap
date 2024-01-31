@@ -1,4 +1,4 @@
-# Live : [@Live Project Link](https://token-swap-orcin.vercel.app/)
+
 
 # Token Swap Web3 Dapp
 
@@ -39,31 +39,7 @@ npm install
 npm run dev
 
 
-## Author
-
-- [@Ronnie Ahmed_Github](https://www.github.com/Ronnie-Ahmed)
-- [@Ronnie Ahmed_Portfolio](https://portfolio-fl2l.vercel.app/)
-- [@Ronnie Ahmed Linkdin](https://www.linkedin.com/in/ronnie-ahmed/)
 
 ## Tech Stack
 
-**Frontend/Backend:** React, TailwindCSS, HTML, Solidity, Ethers.js, Thirdweb, Hardhat,0x api
-
-
-
-```
-
-##Project Video
-
-[![Thumbnail](https://github.com/Ronnie-Ahmed/Token_Swap/assets/68500792/e8560bb8-42fd-4a89-98c5-70474efcda7f)(
-https://github.com/Ronnie-Ahmed/Token_Swap/assets/68500792/b1816b54-ef1c-4275-8381-522bd6a316e8)
-
-##Screen Shoots
-
-![FreeTOken](https://github.com/Ronnie-Ahmed/Token_Swap/assets/68500792/d6609dc1-f288-4dd7-b5bc-49fecc89c6e3)
-
-![Home](https://github.com/Ronnie-Ahmed/Token_Swap/assets/68500792/6011c6f6-a608-4302-a77d-68bfd63f2fa7)
-
-![Mainnet](https://github.com/Ronnie-Ahmed/Token_Swap/assets/68500792/e8560bb8-42fd-4a89-98c5-70474efcda7f)
-
-![testnet](https://github.com/Ronnie-Ahmed/Token_Swap/assets/68500792/dd59ad25-dd0a-4ecc-ba7c-7116827ab1bd)
+**Frontend/Backend:** React, TailwindCSS, HTML, Solidity, Ethers.js, Thirdweb, Hardhat,0x ap
